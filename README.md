@@ -2,7 +2,7 @@
 <h3 align="center">Started adventure on January 7, 2023</h3>
 
 <!--
-**rootiris/rootiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rtirs/rtirs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
